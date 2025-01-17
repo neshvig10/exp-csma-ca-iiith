@@ -10,11 +10,11 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Vigneshwaran 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  IIT(BHU)
+<b> Email id|     <b>  svigneshwaran1073@gmail.com
+<b> Department |  CSE
 
 ### Contributors List
 
